@@ -11,7 +11,8 @@ The directory tree are as follow:
 │   ├── D_heatmap_miRNA.pdf  
 │   ├── MCBZD.counts  
 │   └── MCBZD_heatmap_miRNA.pdf  
-├── miRNAcount.R  
+├── scripts  
+│   └── miRNAcount.R   
 └── tissuesDB  
     ├── bloodComponentsMiRNA.csv  
     ├── journal.pone.0041561.s005.csv  

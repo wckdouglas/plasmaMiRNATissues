@@ -4,7 +4,7 @@ This repository contains scripts and data for constructing the figure 6 for the 
 
 Qin, Yidan and Yao, Jun and **Wu, Douglas C.** and Nottingham, Ryan M. and Mohr, Sabine and Hunicke-Smith, Scott and Lambowitz, Alan M. High-throughput sequencing of human plasma RNA by using thermostable group II intron reverse transcriptases. *RNA*. 2015
 
-The directory tree are as follow:
+The directory tree are as follow:   
 ├── README.md  
 ├── miRNACounts  
 │   ├── D.counts  
@@ -17,7 +17,10 @@ The directory tree are as follow:
     ├── journal.pone.0041561.s005.csv  
     └── miRNATissue.csv  
 
-miRNACounts/\*.counts files are raw count data.
+miRNACounts contains:
+
+* \*.counts files are raw count data.
+
 tissuesDB contains: 
 
 * bloodComponentsMiRNA.csv: a table contains miRNA that expressed in [blood cells](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0041561)
